@@ -4,7 +4,7 @@
   },
   "description": "Patches for the @c8y/ng1-modules npm module.",
   "license": "Apache-2.0",
-  "name": "@c8y/ng1-modules/core/ui/lists",
+  "name": "@c8y/ng1-modules",
   "scripts": {},
   "version": "1010.0.15"
 }
